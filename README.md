@@ -1,5 +1,5 @@
 # Roxy Stream Tool 
- THIS IS in BETA please expect issues!
+ THIS IS in BETA please expect issues, and tiktok does **NOT** work currently.
 
 🎵 Multi-platform music bot with Twitch, YouTube, TikTok support, Spotify integration, and a modern OBS overlay (soon).
 
