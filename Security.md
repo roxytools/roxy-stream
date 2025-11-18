@@ -15,3 +15,4 @@ You can report security issues via the [issues](../../issues) section or [contac
 
 If the impact is severe, you may also report it directly via [email](mailto:owen@owendev.cfd) by following the link.
 
+This product has been tested & ran multiple times through virus detecors and has **ZERO** viruses. I promise you it doesnt, this is just a hobby project.
