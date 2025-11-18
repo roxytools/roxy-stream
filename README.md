@@ -21,7 +21,7 @@
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/streamtool
+   git clone https://github.com/roxytools/roxy-stream
    cd streamtool
 
 2. Run
